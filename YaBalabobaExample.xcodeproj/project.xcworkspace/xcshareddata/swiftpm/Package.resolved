@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "objectmapper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tristanhimmelman/ObjectMapper",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a593b4d647a970b3d184d046f8f52b945083ccf9"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "b9467f3ecfead791cc87ab70b4f1c3c290be6ffd",
+        "version" : "13.4.0"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "edfa04b2311ca10e556b4359a5308eaaef969358"
+      }
+    },
+    {
+      "identity" : "yabalaboba",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mvc045/YaBalaboba",
+      "state" : {
+        "branch" : "master",
+        "revision" : "d6d5ce9d037e3694475a613f4b5f72b84e2159dd"
+      }
+    }
+  ],
+  "version" : 2
+}
