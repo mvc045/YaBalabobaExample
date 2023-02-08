@@ -176,7 +176,7 @@
 			isa = PBXGroup;
 			children = (
 				A6D81E002993B59400F4C159 /* History */,
-				A67B8DB129921C26006E92BF /* Balabola */,
+				A67B8DB129921C26006E92BF /* Balaboba */,
 				A67B8DB029921C1F006E92BF /* Intro */,
 			);
 			path = Screen;
@@ -194,7 +194,7 @@
 			path = Intro;
 			sourceTree = "<group>";
 		};
-		A67B8DB129921C26006E92BF /* Balabola */ = {
+		A67B8DB129921C26006E92BF /* Balaboba */ = {
 			isa = PBXGroup;
 			children = (
 				A67B8DB929921D29006E92BF /* BalabobaViewController.swift */,
@@ -202,7 +202,7 @@
 				A67B8DBD29921D47006E92BF /* BalabobaModel.swift */,
 				A6D81E092993B63700F4C159 /* BalabobaProtocols.swift */,
 			);
-			path = Balabola;
+			path = Balaboba;
 			sourceTree = "<group>";
 		};
 		A67B8DBF299222E8006E92BF /* Views */ = {
